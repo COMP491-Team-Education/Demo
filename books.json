@@ -1,0 +1,252 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "cover_picture": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "cover_picture": "https://m.media-amazon.com/images/I/71rpa1-kyvL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "cover_picture": "https://m.media-amazon.com/images/I/81a3sr-RgdL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "cover_picture": "https://m.media-amazon.com/images/I/81QuEGw8VPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "cover_picture": "https://m.media-amazon.com/images/I/71d5wo+-MuL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "cover_picture": "https://images.penguinrandomhouse.com/cover/9781400079988"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "cover_picture": "https://m.media-amazon.com/images/I/91fQEUwFMyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "cover_picture": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "cover_picture": "https://m.media-amazon.com/images/I/61l8LHt4MeL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "cover_picture": "https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "cover_picture": "https://m.media-amazon.com/images/I/91D4YvdC0dL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "cover_picture": "https://m.media-amazon.com/images/I/51Vg24nKbPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "cover_picture": "https://m.media-amazon.com/images/I/81g0AATkO9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "cover_picture": "https://s3.amazonaws.com/adg-bucket/don-quixote-miguel-de-cervantes/3426-medium.jpg"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "cover_picture": "https://m.media-amazon.com/images/I/71OZJsgZzQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "cover_picture": "https://m.media-amazon.com/images/I/913R4srHS5L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "cover_picture": "https://m.media-amazon.com/images/I/81unikMK30L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "cover_picture": "https://m.media-amazon.com/images/I/61V1mUPfRQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "cover_picture": "https://upload.wikimedia.org/wikipedia/commons/a/ab/JoyceUlysses2.jpg"
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "cover_picture": "https://m.media-amazon.com/images/I/51i-9SGWr-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "cover_picture": "https://m.media-amazon.com/images/I/61Z9ebxYVvL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "cover_picture": "https://images.penguinrandomhouse.com/cover/9780805209990"
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "cover_picture": "https://m.media-amazon.com/images/I/81wUVpREPSL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "cover_picture": "https://upload.wikimedia.org/wikipedia/commons/5/57/Lolita_1955.JPG"
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "cover_picture": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Sound_and_the_Fury_%281929_1st_ed_dust_jacket%29.jpg"
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "cover_picture": "https://m.media-amazon.com/images/I/51Qj9kPD4CL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "cover_picture": "https://readwithstyle.wordpress.com/wp-content/uploads/2013/07/gabriel-garcia-marquez-one-hundred-years-of-solitude-04.jpg"
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "cover_picture": "https://m.media-amazon.com/images/I/617WkdpG8xL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "cover_picture": "https://m.media-amazon.com/images/I/51gi6rxS6OL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "cover_picture": "https://m.media-amazon.com/images/I/71yhG9std-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "cover_picture": "https://m.media-amazon.com/images/I/91U7HNa2NQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "cover_picture": "https://m.media-amazon.com/images/I/81z7E0uWdtL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "cover_picture": "https://blog.streetwriters.co/media/posts/72/metamorphosis.jpg"
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "cover_picture": "https://m.media-amazon.com/images/I/61ZahemCAeL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "cover_picture": "https://m.media-amazon.com/images/I/71RXc0OoEwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "cover_picture": "https://upload.wikimedia.org/wikipedia/commons/8/80/Catch-22_%281961%29_front_cover%2C_first_edition.jpg"
+    },
+    {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "cover_picture": "https://m.media-amazon.com/images/I/51eMmsxaN8L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "cover_picture": "https://m.media-amazon.com/images/I/71dfDiH-BKL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "cover_picture": "https://m.media-amazon.com/images/I/71O7XjXaMhL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "cover_picture": "https://m.media-amazon.com/images/I/715ZqWWOxBL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "cover_picture": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411852091i/24280.jpg"
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "cover_picture": "https://m.media-amazon.com/images/I/81elBAS5LcL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "East of Eden",
+        "author": "John Steinbeck",
+        "cover_picture": "https://m.media-amazon.com/images/I/81dK6hlbsnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "cover_picture": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Grapes_of_Wrath_%281939_1st_ed_cover%29.jpg"
+    },
+    {
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "cover_picture": "https://images.penguinrandomhouse.com/cover/9780143107729"
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "cover_picture": "https://m.media-amazon.com/images/I/718gkx8l6pL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "cover_picture": "https://m.media-amazon.com/images/I/818mKxj9pAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "cover_picture": "https://m.media-amazon.com/images/I/61iylEmE5kL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "cover_picture": "https://m.media-amazon.com/images/I/91es8r849YL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Hunchback of Notre-Dame",
+        "author": "Victor Hugo",
+        "cover_picture": "https://m.media-amazon.com/images/I/71DbvL0PmnL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
