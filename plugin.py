@@ -68,7 +68,7 @@ def add_book(title, author, picture, cur):
         # Query to insert a new book
         cur.execute(f'''
             INSERT INTO Books (title, author, picture)
-            VALUES {title, author, picture)}
+            VALUES {title, author, picture}
         ''')
         
         # Commit the transaction
