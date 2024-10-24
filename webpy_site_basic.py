@@ -1,5 +1,6 @@
 import web
 import json
+import plugin
 
 urls = (
     '/', 'Index',
@@ -7,6 +8,7 @@ urls = (
 )
 
 app = web.application(urls, globals())
+#db = web.database(dbn='postgres', db='YOURDB', user='USERNAME', pw='PASSWORD')
 
 render = web.template.render('templates/')
 
