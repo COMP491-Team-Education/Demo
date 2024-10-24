@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Books</title>
+</head>
+<body>
+    <h2>Search for a Book</h2>
+
+    <form action="/search" method="get">
+        <input type="text" name="query" placeholder="Search for a book">
+        <button type="submit">Search</button>
+    </form>
+
+    {% if results %}
+        <ul>
+        {% for book in results %}
+            <li>{{ book.title }}</li>
+            <li>{{ book.author }}</li>
+            <li><img src="{{ book.cover_picture }}" height="300px"></img></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
