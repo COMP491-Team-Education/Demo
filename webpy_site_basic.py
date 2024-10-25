@@ -1,6 +1,5 @@
 import web
 import json
-import plugin_online
 
 urls = (
     '/', 'Index',
@@ -18,9 +17,12 @@ class Index:
 class Search:
     def GET(self):
         user_data = web.input()
-        query = user_data.query
+        query = user_data.query.lower()
 
-        results = plugin_online.get_books_info(query)
+        with open('books.json', 'r') as f:
+            books = json.load(f)
+
+        results = [book for book in books if query in book['title'].lower()]
 
         return render.search(results=results)
 
