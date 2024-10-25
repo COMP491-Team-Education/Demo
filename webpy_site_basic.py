@@ -1,6 +1,6 @@
 import web
 import json
-import plugin
+#import plugin.offline
 
 urls = (
     '/', 'Index',
