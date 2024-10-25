@@ -18,7 +18,7 @@ def get_books_info(partial_title, limit=10):
                 info = {
                     "title": book.get("title", "N/A"),
                     "author": book.get("author_name", ["N/A"])[0] if book.get("author_name") else "N/A",
-                    "cover": f"http://covers.openlibrary.org/b/id/{book['cover_i']}-M.jpg" if book.get("cover_i") else None
+                    "cover": f"https://covers.openlibrary.org/b/id/{book['cover_i']}-M.jpg" if book.get("cover_i") else None
                 }
                 books.append(info)
             return books
